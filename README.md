@@ -64,4 +64,5 @@ physics-guided-cold-diffusion/
 Coming soon....
 
 ## Contact
-Md Imam Ahasan - emamahasane@gmail.com
+1. Md Imam Ahasan - emamahasane@gmail.com
+2. A. F. M Abdun Noor - abdunnoor11@gmail.com
