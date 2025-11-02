@@ -138,7 +138,7 @@ dose-aware-cold-diffusion/
 - Implemented with TorchRadon for differentiable CT physics
 - Verified on NVIDIA RTX 4090 (CUDA 12.1)
 
---
+---
 
 ## Contact
 
@@ -147,7 +147,7 @@ dose-aware-cold-diffusion/
 
 ---
 
-“Dose-Aware Cold Diffusion bridges physics and perception - enabling consistent, dose-robust reconstruction for safer medical imaging.”
+> Dose-Aware Cold Diffusion bridges physics and perception - enabling consistent, dose-robust reconstruction for safer medical imaging.
 
 ---
 
