@@ -1,0 +1,10 @@
+unet:
+  base: 64
+dap:
+  emb_dim: 64
+pempp:
+  prior_ch: 32
+  emb_dim: 64
+dcsa:
+  t_min: 4
+  t_max: 16

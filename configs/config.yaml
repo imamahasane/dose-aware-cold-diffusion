@@ -1,0 +1,22 @@
+# Global defaults via Hydra-like structure (flat for simplicity)
+seed: 1337
+precision: amp
+paths:
+  data_root: /data
+  out_dir: outputs/stage_a
+ct:
+  img_h: 384
+  img_w: 384
+  angles: 512
+  det: 512
+train:
+  stage: a
+  epochs: 100
+  batch_size: 8
+  lr: 1e-4
+  weight_decay: 1e-2
+  warmup_steps: 500
+  total_steps: 10000
+eval:
+  batch_size: 2
+  ckpt: null
